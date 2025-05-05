@@ -1,0 +1,9 @@
+[submodule "SmartSearch_Med3DVLM"]
+	path = SmartSearch_Med3DVLM
+	url = https://github.com/Fred25022004/SmartSearch_Med3DVLM
+[submodule "SmartSearch_MMed-RAG"]
+	path = SmartSearch_MMed-RAG
+	url = https://github.com/Fred25022004/SmartSearch_MMed-RAG
+[submodule "SmartSearch_Medical-Graph-RAG"]
+	path = SmartSearch_Medical-Graph-RAG
+	url = https://github.com/Fred25022004/SmartSearch_Medical-Graph-RAG
