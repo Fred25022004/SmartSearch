@@ -7,3 +7,6 @@
 [submodule "SmartSearch_Medical-Graph-RAG"]
 	path = SmartSearch_Medical-Graph-RAG
 	url = https://github.com/Fred25022004/SmartSearch_Medical-Graph-RAG
+[submodule "SmartSearch_Multimodal-RAG-Survey"]
+	path = SmartSearch_Multimodal-RAG-Survey
+	url = https://github.com/Fred25022004/SmartSearch_Multimodal-RAG-Survey
